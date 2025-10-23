@@ -1,4 +1,4 @@
-package htl.steyr.passwordmanager;
+package htl.steyr.passwordmanager.controller;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
